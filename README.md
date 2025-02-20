@@ -119,7 +119,7 @@ mse_nn = np.mean((y_test - y_pred_nn.flatten())**2)
 print(f'MSE (Rede Neural): {mse_nn:.4f}')
 ```
 
-- Visualização dos resultados:
+5-Visualização dos resultados:
 
 ```python
 plt.scatter(x_train, y_train, label='Treino', color='blue', alpha=0.6)  # Pontos de treino
