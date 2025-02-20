@@ -133,6 +133,6 @@ plt.title('Comparação entre Mínimos Quadrados e Rede Neural')
 plt.show()
 ```
 
-[por a imagem dos resultados]
+![Comparação entre a pseudo-inversa e a rede neural](/imagens/comparativo_minimos_quadrados_rede_neural.png)
 
 O gráfico mostra a comparação entre os modelos de regressão linear obtidos com a solução de mínimos quadrados e a rede neural.
